@@ -21,6 +21,6 @@ As I build this dashboard, I will create a page for each plot and a way to navig
 At the top of every page, my website will have a navigation bar that does the following:
   - Contains the name of the site , allowing users to return to the landing page from any page
   - Contains a drop-down menu, named Plots, that contains a link to each visualization page
-  - Provides two more text links on the right side: Coparison, which links to the comparisons page, and Data, which links to the data page
+  - Provides two more text links on the right side: Comparison, which links to the comparisons page, and Data, which links to the data page
   - Is responsive (via media queries)
     
