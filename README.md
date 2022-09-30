@@ -7,7 +7,7 @@ As I build this dashboard, I will create a page for each plot and a way to navig
 1. A Landing page that contains:
     - An explanation of the project
     - A link to each visualization page
-2. Four Visualation Pages, each with the following elements:
+2. Four (4) Visualization Pages, each with the following elements:
     - A descriptive title and a heading tag
     - The visualization for the selected comparison
     - A paragraph describing the visualization and its significance
