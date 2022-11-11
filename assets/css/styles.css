@@ -1,0 +1,246 @@
+
+html {
+  /* Positioning */
+ 
+
+  /* Box-model */
+
+}
+
+body {
+  /* Positioning */
+ 
+
+  /* Typography */
+  
+
+  /* Visual */
+  background-color: lightgrey;
+  font-style: normal;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  color: black
+    
+}
+
+h1 {
+  color:lightseagreen;
+  font-weight: bold;
+}
+
+h2 {
+  font-size:large;
+  font-weight: bold;
+}
+
+h3 {
+  color:lightseagreen;
+  font-weight: bold;
+  text-align: left;
+}
+
+div {
+  background-color: white;
+}
+
+/* Media query for body */
+@media only screen and (max-width: 767px) {
+  /* Set background color to white on small screens */
+ 
+}
+
+/* ----End base styling---- */
+
+/* ----NAV START---- */
+.navbar-custom {
+  background-color: #fff;
+  font-style: normal;
+  font-family: 'Times New Roman', Times, serif;
+  display: inline-block;
+  padding: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+  color: black;
+}
+
+#logo {
+  /* Box-model */
+ 
+  /* Positioning */
+
+
+  /* Typography */
+
+
+  /* Visual */
+  
+}
+
+/* Logo hover state */
+#logo:hover {
+  /* Visual */
+  opacity: 0.7;
+}
+
+.navbar-right-custom {
+  /* Box-model */
+
+
+  /* Typography */
+
+}
+
+/* Nav element hover state */
+.navbar-default .navbar-nav > li > a:hover {
+  color: #4aaaa5;
+}
+
+/* Media query for nav */
+@media only screen and (max-width: 767px) {
+  .navbar-header {
+    background-color: #4aaaa5;
+  }
+
+  #logo {
+    width: 100%;
+
+    /* Box-model */
+
+
+    /* Positioning */
+
+
+    /* Typography */
+
+
+    /* Visual */
+    
+  }
+}
+
+/* -----NAV END---- */
+
+/* ----DESCRIPTION START---- */
+.description-header {
+  /* Positioning */
+ 
+
+  /* Typography */
+
+}
+
+.description-content {
+  /* Box-model */
+
+
+  /* Positioning */
+
+
+  /* Visual */
+  
+}
+
+.description-content > p {
+  /* Box-model */
+ 
+
+  /* Typography */
+
+}
+
+.description-text {
+  padding-bottom: 20px;
+}
+
+#description-image {
+  /* Positioning */
+
+
+  /* Box-model */
+
+}
+
+/* Description content media query */
+@media only screen and (max-width: 767px) {
+  /* override default class styling for positioning/padding */
+
+  .description-content {
+    /* Box-model */
+    padding: 0;
+
+    /* Positioning */
+    margin-top: 0;
+  }
+}
+
+/* ----DESCRIPTION END---- */
+
+/* ----IMAGE NAV START---- */
+#imageNav-area {
+  width: 100%;
+
+  /* Box-model */
+  
+
+  /* Positioning */
+  
+
+  /* Visual */
+ 
+}
+
+.imageNav-header {
+  /* Positioning */
+
+
+  /* Typography */
+
+
+.imageNav-photo {
+  width: 140px;
+
+  /* Box-model */
+
+}
+
+.imageNav-photo:hover {
+  /* Visuals */
+  opacity: 0.6;
+}
+
+.imageNav-photo.active {
+  /* Visuals */
+  border: 2px solid #4aaaa5;
+}
+
+#images {
+  /* Box-model */
+  padding-top: 15px;
+
+  /* Typography */
+  text-align: center;
+}
+
+/* ----IMAGE NAV END---- */
+
+/* ----COMPARISON START---- */
+.comparison-image:hover {
+  opacity: 0.6;
+}
+
+.comparison-header {
+  /* Positioning */
+
+
+  /* Typography */
+
+}
+
+/* ----COMPARISON END---- */
+
+
+
+
+
+

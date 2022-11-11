@@ -3,6 +3,7 @@
 Data becomes more powerful when you share it with others! That’s because people can use your data only if they can access it. So, I will use HTML and CSS to create a dashboard featuring the Latitude vs. X analysis of weather.
 
 As I build this dashboard, I will create a page for each plot and a way to navigate among these pages. These pages will contain the visualizations and the descriptions. I will also create two more pages. One will be a landing page that provides a comparison of all the plots. The other will be a page that presents the data used to build the plots.
+
 ## My website will consist of seven pages as follows:
 1. A Landing page that contains:
     - An explanation of the project
