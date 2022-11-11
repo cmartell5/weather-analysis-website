@@ -4,6 +4,8 @@ Data becomes more powerful when you share it with others! That’s because peopl
 
 As I build this dashboard, I will create a page for each plot and a way to navigate among these pages. These pages will contain the visualizations and the descriptions. I will also create two more pages. One will be a landing page that provides a comparison of all the plots. The other will be a page that presents the data used to build the plots.
 
+![image](https://user-images.githubusercontent.com/100399092/201246166-22f65c3d-bebf-4499-a5fd-685dc02e74f6.png)
+
 ## My website will consist of seven pages as follows:
 1. A Landing page that contains:
     - An explanation of the project
@@ -25,3 +27,5 @@ At the top of every page, my website will have a navigation bar that does the fo
   - Provides two more text links on the right side: Comparison, which links to the comparisons page, and Data, which links to the data page
   - Is responsive (via media queries)
     
+## Programs used
+HTML, Bootstrap, Jupyter Notebook
