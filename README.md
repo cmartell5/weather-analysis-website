@@ -1,4 +1,4 @@
-# Web-Design-Challenge
+# Weather Analysis Website
 
 Data becomes more powerful when you share it with others! That’s because people can use your data only if they can access it. So, I will use HTML and CSS to create a dashboard featuring the Latitude vs. X analysis of weather.
 
@@ -27,5 +27,5 @@ At the top of every page, my website will have a navigation bar that does the fo
   - Provides two more text links on the right side: Comparison, which links to the comparisons page, and Data, which links to the data page
   - Is responsive (via media queries)
     
-## Programs used
-HTML, Bootstrap, Jupyter Notebook
+## Tools used
+Python-Pandas, HTML, CSS, Bootstrap, Jupyter Notebook
